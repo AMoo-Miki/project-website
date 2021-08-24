@@ -1,6 +1,6 @@
 ---
-primary_title: JavaDocs
-title: '1.0.0 JavaDocs'
+primary_title: Javadocs
+title: '1.0.0 Javadoc'
 javadocs:
   - OpenSearch/benchmarks/build/docs/javadoc/allclasses-index.html
   - OpenSearch/benchmarks/build/docs/javadoc/allpackages-index.html
